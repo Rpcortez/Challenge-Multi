@@ -21,7 +21,6 @@
 
     div[class^="col"]{
         border: 1px solid var(--salmon);
-        margin-left: 10px;
     }
 
     .tall{
